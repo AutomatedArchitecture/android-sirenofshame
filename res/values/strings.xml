@@ -1,11 +1,13 @@
 <resources>
 
     <string name="app_name">Siren of Shame</string>
-    <string name="title_section3">Section 3</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section1">Section 1</string>
+    <string name="title_section3">News</string>
+    <string name="title_section2">Leaders</string>
+    <string name="title_section1">My Builds</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_main">Siren of Shame</string>
+    <string name="title_activity_my_builds">MyBuildsActivity</string>
+    <string name="title_activity_leaders">Leaders</string>
 
 </resources>
